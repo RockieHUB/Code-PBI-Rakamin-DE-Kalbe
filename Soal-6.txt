@@ -1,0 +1,1 @@
+Kurangnya konteks sehingga tidak dapat membuat kesimpulan yang presisi. Ditampilkan gambar yang memiliki nilai kembar untuk kolom ddPlant, sehingga hal yang dapat diasumsikan terjadi adalah terdapat Data duplicate. Solusi yang dapat dilakukan adalah untuk menerapkan remove duplicate pada tabel yang bersangkutan
